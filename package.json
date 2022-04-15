@@ -4,6 +4,7 @@
     "description": "Native One Dark Theme",
     "version": "0.0.2",
     "publisher": "DanielFitzsimmons",
+    "icon": "icon/icon_256.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/DanielFitzsimmons/Native-One-Dark"
