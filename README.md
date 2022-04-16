@@ -5,7 +5,7 @@ There are a couple of great vsCode themes however, I really like the semantic hi
 ### Suggestions 🧠 and Pull Requests are welcome!
 Contributors welcome! \
 GitHub: [Repo](https://github.com/DanielFitzsimmons/Native-One-Dark) \
-Issues: [Repo](https://github.com/DanielFitzsimmons/Native-One-Dark/issues) \
+Issues: [Repo](https://github.com/DanielFitzsimmons/Native-One-Dark/issues) 
 
 ## Goals
 1. Native MacOS Style UI 👨‍💻
