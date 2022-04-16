@@ -2,7 +2,7 @@
     "name": "native-one-dark",
     "displayName": "Native One Dark",
     "description": "Native One Dark Theme",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "publisher": "DanielFitzsimmons",
     "icon": "icon/icon_256.png",
     "repository": {
@@ -29,6 +29,11 @@
                 "label": "Native One Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Native One Dark-color-theme.json"
+            },
+            {
+                "label": "Native One Dark Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Native One Dark Contrast-color-theme.json"
             },
             {
                 "label": "Native One Dark Background",
