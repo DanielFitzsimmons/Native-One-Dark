@@ -149,6 +149,10 @@
 		"banner.background": "#262626b8",
 		"banner.foreground": "#ebebeb",
 		"banner.iconForeground": "#ebebeb",
+		"editor.findMatchBackground": "#0082fb6c",
+		"editor.findMatchHighlightBackground": "#0082fb6c",
+		"editor.findRangeHighlightBackground": "#0082fb6c",
+		"editor.rangeHighlightBackground": "#4479ff60"
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
