@@ -197,7 +197,7 @@
 		// "gitDecoration.stageDeletedResourceForeground": "#e06c75",
 		// "gitDecoration.stageModifiedResourceForeground": "#98c379",
 		/* Debug */
-		"debugToolBar.background": "#262626b8",
+		"debugToolBar.background": "#262626fe",
 		"debugToolBar.border": "#353535",
 		/* Extensions */
 	},
