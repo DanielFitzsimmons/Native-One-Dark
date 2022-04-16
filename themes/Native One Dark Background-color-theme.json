@@ -154,6 +154,7 @@
 		"banner.background": "#262626b8",
 		"banner.foreground": "#ebebeb",
 		"banner.iconForeground": "#ebebeb",
+		"list.inactiveSelectionBackground": "#eaebea0d",
 	},
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
