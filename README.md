@@ -1,8 +1,9 @@
 # Native One Dark 🦄  
 
-There are a couple of great vsCode themes however, I really like the semantic highlighting of the One Dark themes. As a result, ***Native One Dark*** is an attempt to combine a Native MacOS UI visual aesthetic with One Dark semantic highlighting. *Includes 3 theme variants!*
+There are a couple of great vsCode themes however, I really like the semantic highlighting of the One Dark themes. As a result, ***Native One Dark*** is an attempt to combine a Native MacOS UI visual aesthetic with One Dark semantic highlighting. ***3 theme variants!***
 
 ### Suggestions 🧠 and Pull Requests are welcome!
+Contributors welcome!
 GitHub: [Repo](https://github.com/DanielFitzsimmons/Native-One-Dark) 
 
 ## Goals
