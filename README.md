@@ -10,4 +10,4 @@ There are a couple of great vsCode themes however, I really like the semantic hi
 1. [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui)
 2. [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
 
-![Native OneDark](/screenShots/screenShot.png)
+![Native OneDark](/screenShots/screenShot_V2.png)
