@@ -44,7 +44,7 @@
 		"editorHint.foreground": "#027aff",
 		"editorInfo.border": "#ff000000",
 		"editorInfo.foreground": "#4dbf57",
-		"editorLineNumber.activeForeground": "#ffffffd8",
+		"editorLineNumber.activeForeground": "#ebebebd8",
 		"editorLineNumber.foreground": "#747478",
 		"editorOverviewRuler.addedForeground": "#4dbf57",
 		"editorOverviewRuler.border": "#ff000000",
