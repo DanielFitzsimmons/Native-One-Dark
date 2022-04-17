@@ -220,7 +220,7 @@
 		"peekViewResult.matchHighlightBackground": "#ea5c004d",
 		"peekViewResult.selectionBackground": "#3399ff33",
 		"peekViewResult.selectionForeground": "#ffffff",
-		"peekViewTitle.background": "#121212",
+		"peekViewTitle.background": "#121212a9",
 		"peekViewTitleDescription.foreground": "#ccccccb3",
 		"peekViewTitleLabel.foreground": "#ffffff",
 		"icon.foreground": "#ebebeb",
