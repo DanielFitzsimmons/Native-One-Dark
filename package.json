@@ -15,7 +15,12 @@
         "dark",
         "one dark",
         "native",
-        "blue"
+        "blue",
+        "red",
+        "mac",
+        "osx",
+        "apple",
+        "oneDark"
     ],
     "engines": {
         "vscode": "^1.66.0"
