@@ -2,7 +2,7 @@
 	"name": "MacOS One Dark",
 	"type": "dark",
 	"colors": {
-		/* Activity Bar */
+		/* Activity Bar 1*/
 		"activityBar.activeBorder": "#101010",
 		"activityBar.background": "#262626",
 		"activityBar.border": "#101010",
@@ -25,7 +25,7 @@
 		"dropdown.foreground": "#ebebebd8",
 		"dropdown.listBackground": "#1f1e1e",
 		/* Editor */
-		"editor.background": "#282c34", //One Dark 
+		"editor.background": "#282c34", //One Dark
 		"editor.foreground": "#ebebebd8",
 		"editor.inactiveSelectionBackground": "#6e6e6e",
 		"editor.lineHighlightBackground": "#00000049",
@@ -274,13 +274,13 @@
 		"terminal.ansiBrightGreen": "#a5e075",
 		"terminal.ansiBrightMagenta": "#de73ff",
 		"terminal.ansiBrightRed": "#ff616e",
-		"terminal.ansiBrightWhite": "#d7dae0",
+		"terminal.ansiBrightWhite": "#ebebeb",
 		"terminal.ansiBrightYellow": "#f0a45d",
 		"terminal.ansiCyan": "#42b3c2",
 		"terminal.ansiGreen": "#8cc265",
 		"terminal.ansiMagenta": "#c162de",
 		"terminal.ansiRed": "#e05561",
-		"terminal.ansiWhite": "#e6e6e6",
+		"terminal.ansiWhite": "#ebebeb",
 		"terminal.ansiYellow": "#d18f52",
 		"terminal.background": "#262626",
 		"breadcrumb.background": "#1e1e1e",
