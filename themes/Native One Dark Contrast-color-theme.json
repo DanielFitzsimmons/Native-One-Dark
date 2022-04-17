@@ -6,7 +6,7 @@
 		"activityBar.activeBorder": "#101010",
 		"activityBar.background": "#262626",
 		"activityBar.border": "#101010",
-		"activityBar.foreground": "#285BCE",
+		"activityBar.foreground": "#1892FF",
 		"activityBar.inactiveForeground": "#ebebeb",
 		"activityBarBadge.background": "#ea4f3bd7",
 		/* Badge */
@@ -295,7 +295,7 @@
 		"gitDecoration.stageModifiedResourceForeground": "#e5c07b",
 		"editorMarkerNavigation.background": "#2d2d30",
 		"editorMarkerNavigationError.background": "#f48771",
-		"editorMarkerNavigationWarning.background": "#cca700",
+		"editorMarkerNavigationWarning.background": "#e5c07b",
 		"editorMarkerNavigationInfo.background": "#75beff",
 		"merge.currentHeaderBackground": "#367366",
 		"merge.currentContentBackground": "#27403B",
