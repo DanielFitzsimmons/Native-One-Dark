@@ -21,6 +21,8 @@ Issues: [Repo](https://github.com/DanielFitzsimmons/Native-One-Dark/issues)
 3. [Icon](https://macosicons.com/#/u/Anmol%20Govinda%20Rao)
 
 
-![Native OneDark](/screenShots/screenShot_V3.png)
+![Native OneDark](/screenShots/1.png)
+![Native OneDark](/screenShots/3.png)
+![Native OneDark](/screenShots/2.png)
 
 Made with ❤️‍🩹 by Daniel Fitzsimmons 🤓

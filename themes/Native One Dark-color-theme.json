@@ -17,7 +17,7 @@
 		"sideBar.foreground": "#bababa",
 		"sideBarSectionHeader.background": "#00000056",
 		"sideBarSectionHeader.foreground": "#bababa",
-		"sideBarSectionHeader.border": "#f9f5f500",
+		"sideBarSectionHeader.border": "#101010",
 		"sideBarTitle.foreground": "#bababa",
 		"sideBar.border": "#101010",
 		"list.inactiveSelectionBackground": "#ffffff16",
