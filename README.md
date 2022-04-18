@@ -7,7 +7,6 @@ There are a couple of great MacOS style vsCode themes however, I really like the
 
 ### PLEASE HELP Suggestions 🧠 and Pull Requests are welcome!
 
-Contributors welcome! \
 GitHub: [Repo](https://github.com/DanielFitzsimmons/Native-One-Dark) \
 Issues: [Repo](https://github.com/DanielFitzsimmons/Native-One-Dark/issues) 
 
