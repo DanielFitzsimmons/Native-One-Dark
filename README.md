@@ -19,3 +19,5 @@ Issues: [Repo](https://github.com/DanielFitzsimmons/Native-One-Dark/issues)
 2. [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
 
 ![Native OneDark](/screenShots/screenShot_V3.png)
+
+Made with ❤️‍🩹 by Daniel Fitzsimmons 👨‍💻
