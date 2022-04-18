@@ -1,6 +1,6 @@
 # Native One Dark 🦄  
 
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/zhuangtongfa.Material-theme) [![Version](https://vsmarketplacebadge.apphb.com/version/zhuangtongfa.Material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=DanielFitzsimmons.native-one-dark) [![Installs](https://vsmarketplacebadge.apphb.com/installs/zhuangtongfa.Material-theme.svg)](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://marketplace.visualstudio.com/items?itemName=DanielFitzsimmons.native-one-dark) 
 
 There are a couple of great MacOS style vsCode themes however, I really like the semantic highlighting of the One Dark themes. As a result, ***Native One Dark*** is an attempt to combine a Native MacOS UI visual aesthetic with One Dark semantic highlighting. ***2 theme variants!***
 
