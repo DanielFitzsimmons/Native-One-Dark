@@ -18,6 +18,8 @@ Issues: [Repo](https://github.com/DanielFitzsimmons/Native-One-Dark/issues)
 ## Useful Extensions to complete the look and feel
 1. [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui)
 2. [Vibrancy](https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy)
+3. [Icon](https://macosicons.com/#/u/Anmol%20Govinda%20Rao)
+
 
 ![Native OneDark](/screenShots/screenShot_V3.png)
 
