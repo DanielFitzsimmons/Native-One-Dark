@@ -1,4 +1,5 @@
 # Native One Dark 🦄  
+If you notice something the needs fixed or improved please please log a issue oon GitHub!
 
 [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/DanielFitzsimmons.native-one-dark) [![Review on vscode.dev](https://img.shields.io/badge/review%20on-marketplace-success)](https://marketplace.visualstudio.com/items?itemName=DanielFitzsimmons.native-one-dark&ssr=false#review-details) 
 
