@@ -22,7 +22,7 @@ Issues: [Repo](https://github.com/DanielFitzsimmons/Native-One-Dark/issues)
 
 
 ![Native OneDark](/screenShots/1.png)
-![Native OneDark](/screenShots/3.png)
 ![Native OneDark](/screenShots/2.png)
+![Native OneDark](/screenShots/3.png)
 
 Made with ❤️‍🩹 by Daniel Fitzsimmons 🤓
