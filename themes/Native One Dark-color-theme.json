@@ -2,6 +2,7 @@
 	"name": "macOS Dark Transparency",
 	"type": "dark",
 	"colors": {
+		// "titleBar.border": "#101010",
 		// Button colors
 		"button.background": "#0072c6",
 		"button.foreground": "#f5f5f5",
@@ -57,7 +58,7 @@
 		"sideBar.background": "#181818",
 		"sideBarSectionHeader.background": "#00000056",
 		"sideBarSectionHeader.border": "#000",
-		"list.activeSelectionBackground": "#ffffff40",
+		"list.activeSelectionBackground": "#0072c6",
 		"list.inactiveSelectionBackground": "#ffffff20",
 		// Status bar colors
 		"statusBar.border": "#000",
