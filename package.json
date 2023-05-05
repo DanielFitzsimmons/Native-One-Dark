@@ -2,7 +2,7 @@
     "name": "native-one-dark",
     "displayName": "Native One Dark",
     "description": "Native One Dark Theme",
-    "version": "1.0.47",
+    "version": "1.0.54",
     "publisher": "DanielFitzsimmons",
     "icon": "icon/icon_256_V4.png",
     "repository": {
@@ -33,16 +33,6 @@
                 "label": "Native One Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Native One Dark-color-theme.json"
-            },
-            {
-                "label": "Native One Dark Background",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Native One Dark Background-color-theme.json"
-            },
-            {
-                "label": "Native One Dark Darker",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Native One Dark Darker-color-theme.json"
             }
         ]
     }
