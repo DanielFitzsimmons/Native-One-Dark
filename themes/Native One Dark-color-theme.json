@@ -51,9 +51,9 @@
 		// Notification colors
 		"notifications.background": "#3c3c3c",
 		"notificationToast.border": "#4f4f4f",
-		"notificationsErrorIcon.foreground": "#FF5370",
-		"notificationsWarningIcon.foreground": "#FFCB6B",
-		"notificationsInfoIcon.foreground": "#89DDFF",
+		"notificationsErrorIcon.foreground": "#FF3B30",
+		"notificationsWarningIcon.foreground": "#FFA700",
+		"notificationsInfoIcon.foreground": "#007AFF",
 		// Sidebar colors
 		"sideBar.border": "#000",
 		"tab.activeBackground": "#1e1e1e",
@@ -69,11 +69,11 @@
 		"list.inactiveSelectionBackground": "#ffffff20",
 		// Status bar colors
 		"statusBar.border": "#000",
+		"statusBar.debuggingForeground": "#F8F8F8",
 		"statusBar.background": "#101010",
 		"statusBar.noFolderBackground": "#0072c6",
-		"statusBar.debuggingBackground": "#FF5370",
-		"statusBar.debuggingForeground": "#F8F8F8",
-		"statusBarItem.remoteBackground": "#2fb350",
+		"statusBar.debuggingBackground": "#FF3B30",
+		"statusBarItem.remoteBackground": "#3EBD93",
 		"statusBar.focusBorder": "#101010",
 		"statusBarItem.hoverBackground": "#ffffff20",
 		// Activity bar colors
@@ -106,17 +106,11 @@
 		"terminalCursor.foreground": "#FFCB6B",
 		"terminalCursor.background": "#000000",
 		// Git colors
-		// "gitDecoration.deletedResourceForeground": "#FF537090",
-		// "gitDecoration.conflictingResourceForeground": "#FFCB6B90",
-		// "gitDecoration.modifiedResourceForeground": "#82AAFF90",
-		// "gitDecoration.untrackedResourceForeground": "#C3E88D90",
-		// "gitDecoration.ignoredResourceForeground": "#84848490"
-		"gitDecoration.deletedResourceForeground": "#ff3b30",
-		"gitDecoration.conflictingResourceForeground": "#ff9500",
-		"gitDecoration.modifiedResourceForeground": "#007aff",
-		"gitDecoration.untrackedResourceForeground": "#4cd964",
-		"gitDecoration.ignoredResourceForeground": "#8e8e93"
-		//
+		"gitDecoration.deletedResourceForeground": "#a23648",
+		"gitDecoration.conflictingResourceForeground": "#c39b51",
+		"gitDecoration.modifiedResourceForeground": "#4f6699",
+		"gitDecoration.untrackedResourceForeground": "#87a260",
+		"gitDecoration.ignoredResourceForeground": "#848484",
 	},
 	"tokenColors": [
 		{
