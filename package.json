@@ -2,7 +2,7 @@
     "name": "native-one-dark",
     "displayName": "Native One Dark",
     "description": "Native One Dark Theme",
-    "version": "1.0.60",
+    "version": "2.0.2",
     "publisher": "DanielFitzsimmons",
     "icon": "icon/icon_256_V4.png",
     "repository": {
@@ -19,7 +19,8 @@
         "red",
         "mac",
         "os",
-        "oneDark"
+        "oneDark",
+        "material"
     ],
     "engines": {
         "vscode": "^1.66.0"

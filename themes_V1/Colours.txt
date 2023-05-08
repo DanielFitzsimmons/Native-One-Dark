@@ -1,6 +1,0 @@
-"editor.background": "#262626", //Normal 
-"editor.background": "#1E1E1E", //Contrast
-"editor.background": "#282c34", //One Dark
-"activityBar.foreground": "#285BCE", //Blue
-"badge.background": "#3b69e2", //Soft Blue
-"button.background": "#447aff", //Softer Blue
