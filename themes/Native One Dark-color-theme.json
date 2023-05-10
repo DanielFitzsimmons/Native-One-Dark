@@ -81,6 +81,10 @@
 		"sideBarSectionHeader.border": "#101010",
 		"list.activeSelectionBackground": "#0073c690",
 		"list.inactiveSelectionBackground": "#ffffff20",
+		// "list.dropBackground": "#ff0000",
+		// "list.focusBackground": "#ff0000",
+		// "list.hoverBackground": "#ff0000",
+		// "listFilterWidget.background": "#ff0000",
 		// Status bar colors
 		"statusBar.border": "#000",
 		"statusBar.foreground": "#ffffff80",
